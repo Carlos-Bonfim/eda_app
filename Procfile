@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run Tutorial.py eda_app.py
+web: sh setup.sh && streamlit run eda_app.py
