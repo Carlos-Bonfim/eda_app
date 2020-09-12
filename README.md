@@ -1,4 +1,7 @@
 # eda_app
+
+Heroku deploy: https://eda-data.herokuapp.com/
+
 App para ter rapidamente as primeiras impressões de um conjunto de dados.
 
 Com este app você poderá, sem precisar digitar uma linha de código:
